@@ -1,5 +1,5 @@
 # CINESUGGEST--Movie-recommendation-system
-CineSuggest is an i movie recommendation system built using Streamlit, Python, and SQLite. It provides personalized movie suggestions based on user preferences, genres, and release years.
+CineSuggest is an movie recommendation system built using Streamlit, Python, and SQLite. It provides personalized movie suggestions based on user preferences, genres, and release years.
 
 
 Features
