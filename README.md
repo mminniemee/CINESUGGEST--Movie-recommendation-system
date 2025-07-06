@@ -13,11 +13,6 @@ Features
 - ▶️ Movie Trailers via YouTube Data API
 - 🎨 Clean, responsive UI with custom Streamlit theming
 
-
-PREVIEW OF HOMEPAGE:
-![cinesuggest homepage](https://github.com/user-attachments/assets/9a61e44e-4a40-4c3c-9bdb-6d0e82b8b622)
-
-
 Tech Stack:
 
 - Frontend/UI: Streamlit
@@ -27,6 +22,19 @@ Tech Stack:
 - APIs Used:
   - OMDb API (Posters)
   - YouTube Data API (Trailers)
+
+
+PREVIEW OF WEBSITE:
+![cinesuggest homepage](https://github.com/user-attachments/assets/9a61e44e-4a40-4c3c-9bdb-6d0e82b8b622)
+
+![image](https://github.com/user-attachments/assets/d6e9367c-94bd-4d5e-8c68-f17fcf3a913d)
+
+![image](https://github.com/user-attachments/assets/e8642548-df05-489a-b513-89ca1933a9bc)
+
+![image](https://github.com/user-attachments/assets/a13e0904-5fe0-47b4-a565-adcdc3bae98b)
+
+![image](https://github.com/user-attachments/assets/34c16aa8-bdee-4902-85ab-7b58ac7d12f5)
+
 
 
 
